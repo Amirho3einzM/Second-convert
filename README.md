@@ -52,4 +52,3 @@ Thank you for considering contributing to Persian Time Converter! To contribute,
 
 ---
 
-Feel free to enhance this README with more detailed information or additional sections as needed for your project.
